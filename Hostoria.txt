@@ -1,0 +1,5 @@
+Este es la historia de Ruben Mendoza
+cuya edad es de 38 años y proviene del departamento
+pais Peru.
+
+Este sera mi primera parte de mi hostoria donde contare como me inicie en el mundo de la programacion.

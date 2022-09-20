@@ -1,8 +1,1 @@
-Este es la historia de Ruben Mendoza
-cuya edad es de 38 años y proviene del departamento
-pais Peru.
-
-Este sera mi primera parte de mi hostoria donde contare como me inicie en el mundo de la programacion.
-
-Empezaremos en el año 2006 cuando como todo joven no sabia que hacer con mi vida entonces mi prima que ya estudiaba farmacia me menciona que al costado de donde estudia existe un instituto
-donde podria estudiar algunas carreras en ello me entrego un folleto donde promocianaban algunas carreras.
+Texto Plano
